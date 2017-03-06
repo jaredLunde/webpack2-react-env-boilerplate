@@ -1,6 +1,6 @@
 {
   "name": "webpack2-react-env-boilerplate",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "main": "index.js",
   "private": false,
   "dependencies": {
@@ -13,6 +13,7 @@
     "babel-preset-env": "^1.2.0",
     "babel-preset-react": "^6.23.0",
     "babel-preset-react-optimize": "^1.0.1",
+    "babel-preset-stage-0": "^6.22.0",
     "cross-env": "^3.1.4",
     "react": "^15.4.2",
     "react-addons-test-utils": "^15.4.2",
