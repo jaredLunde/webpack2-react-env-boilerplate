@@ -48,7 +48,10 @@ module.exports = {
     rules: [
       {
         test: /\.js$/,
-        use: ['babel'],
+        use: [
+          'babel',
+          'react-hot-loader/webpack'
+        ],
         exclude: [/node_modules/]
       }
     ],
