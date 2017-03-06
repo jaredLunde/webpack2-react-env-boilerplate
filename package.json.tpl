@@ -9,7 +9,7 @@
     "react-dom": ">=15.x"
   },
   "devDependencies": {
-    "webpack2-react-env-boilerplate": "^0.1.9"
+    "webpack2-react-env-boilerplate": "^0.1.10"
   },
   "repository": {
     "type": "git",
